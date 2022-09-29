@@ -1,0 +1,2 @@
+Se adjunta el link hacia el repositorio de datos utilizados para el entrenamiento de la red neuronal.
+https://drive.google.com/drive/folders/10HLXYEfTLXliqSEWiTzxAWZ3ltkBh9MG?usp=sharing
